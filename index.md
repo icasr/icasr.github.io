@@ -14,7 +14,7 @@ The International Collaboration for the Automation of System Reviews (ICASR) is 
 
 The first meeting was held on 2 October 2015, Vienna, Austria. This first meeting established a set of [8 principles for the collaboration](http://ebrnetwork.org/the-vienna-principles/){:target="_blank"}.
 
-There have been two subsequent meetings: in Philadelphia (2016, [meeting summary](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-017-0667-4){:target="_blank"}, 
+There have been two subsequent meetings: in Philadelphia (2016, [meeting summary](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-017-0667-4){:target="_blank"}), 
 and London (2017 meeting summary pending).
 
 The current steering group for the collaboration includes the following [members](doc01.md){:target="_blank"}
