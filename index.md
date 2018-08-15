@@ -17,4 +17,4 @@ The first meeting was held on 2 October 2015, Vienna, Austria. This first meetin
 There have been two subsequent meetings: in Philadelphia (2016, [meeting summary](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-017-0667-4){:target="_blank"}, 
 and London (2017 meeting summary pending).
 
-The current steering group for the collaboration includes the following [members](doc01.md)
+The current steering group for the collaboration includes the following [members](doc01.md){:target="_blank"}
