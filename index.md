@@ -2,19 +2,12 @@
 layout: default
 ---
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} &mdash; {{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+**_Why ICASR?_**  
+Systematic reviews (SR) are vital to health care, but have become complicated and time-consuming (often several man-years and calendar years of work), due to the rapid expansion of evidence to be synthesised. Fortunately, many tasks of systematic reviews have the potential to be automated or may be assisted by automation. Recent advances in natural language processing, text mining and machine learning have produced new algorithms that can accurately mimic human endeavour in systematic review activity, faster and more cheaply. Automation tools need to be able to work together, to exchange data and results. Therefore, we initiated the **I**nternational **C**ollaboration for the **A**utomation of **S**ystematic **R**eviews (ICASR), to successfully put all the parts of automation of systematic review production together.  
+  
+**_ICASR's work_**  
+The first meeting was held in Vienna in October 2015, and set out 8 principles needed for progress which cover the need for improvement in efficiency of SR tasks, automation across the spectrum of SR tasks, continuous improvement, adherence to high quality standards, flexibility of use and combining components, the need for a collaboration and varied skills, the desire for open source, shared code and evaluation, and a requirement for replicability through rigorous and open evaluation. [An Open Access paper sets out these 'Vienna Principles' devised at that meeting.](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-018-0740-7){:target="_blank"} See Events for details and papers from subsequent meetings.  
+  
+**_Who are we_**  
+ICASR is a global network of a few dozen teams interested in the automation of systematic reviews (see About for a listing). The current steering group for the collaboration includes members from NIEHS (NIH), Cochrane, UCL, CREBP (Bond University), and several other organisations.  
 
-The International Collaboration for the Automation of System Reviews (ICASR) is an international collaboration aimed at the development and dissemination of automation methods to assist in improving the speed and quality of systematic reviews [more info](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-018-0740-7){:target="_blank"}. 
-
-The first meeting was held on 2 October 2015, Vienna, Austria. This first meeting established a set of [8 principles for the collaboration](http://ebrnetwork.org/the-vienna-principles/){:target="_blank"}.
-
-There have been two subsequent meetings: in Philadelphia (2016, [meeting summary](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-017-0667-4){:target="_blank"}), 
-and London (2017 meeting summary pending).
-
-The current steering group for the collaboration includes the following [members](doc01.md){:target="_blank"}
