@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+  
 **_Why ICASR?_**  
 Systematic reviews (SR) are vital to health care, but have become complicated and time-consuming (often several man-years and calendar years of work), due to the rapid expansion of evidence to be synthesised. Fortunately, many tasks of systematic reviews have the potential to be automated or may be assisted by automation. Recent advances in natural language processing, text mining and machine learning have produced new algorithms that can accurately mimic human endeavour in systematic review activity, faster and more cheaply. Automation tools need to be able to work together, to exchange data and results. Therefore, we initiated the **I**nternational **C**ollaboration for the **A**utomation of **S**ystematic **R**eviews (ICASR), to successfully put all the parts of automation of systematic review production together.  
   
