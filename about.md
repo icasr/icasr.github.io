@@ -2,6 +2,8 @@
 layout: doc
 title: About ICASR
 ---
+[Home](index.md)|  
+  
 ICASR is an international collaboration between several groups working in systematic reviews, automation, or both. ICASR holds an annual meeting to foster collaboration between groups working on review automation (see Events for a list of past events).
 The 2018 ICASR Organizing Committee includes:  
 <ul>
