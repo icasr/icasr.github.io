@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Home](index.md)|[About](about.md)|[Resources](resources.md)|[Events](events.md)|  
+[Home](index.md)|[About](about.md)|[Resources](resources.md)|[Events](events.md)| [Papers](papers.md)|  
   
   
 **_Why ICASR?_**  
