@@ -12,6 +12,7 @@ The second meeting was held in Philadelphia (October 2016) adjacent to the Guide
   
 **2017**  
 At the meeting in London (2017), the group focused on: tools and technologies for automating data extraction; how interoperability between systems might be facilitated; and the need to develop sector-wide evaluation methodologies. Papers resulting from these discussions are currently at peer review.  
+[some impression from twitter](https://twitter.com/i/moments/1032159990440701952){target:="_blank"}
   
 **2018**  
 A meeting is being planned in the Hague in November
