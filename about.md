@@ -20,7 +20,7 @@ The 2018 ICASR Organizing Committee includes:
 The following is a partial list of the collaborators:  
   
   
-<img src="images/CREBP_LogoColour2.jpg" width="96">
+<img src="images/CREBP_LogoColour2.jpg" width="96">  
 **[The Centre for Research in Evidence-Based Practice at Bond University](https://bond.edu.au/intl/researchers/research-strengths/university-research-centres/centre-research-evidence-based-practice){:target="_blank"}** includes a team of systematic reviewers and programs interested in automation. Their software - [Systematic Review Accelerator](http://crebp-sra.com/#/){:target="_blank"}  - focuses particularly on tools for better search formulation and conduct, and is free to access.  
 The team includes Prof Paul Glasziou (systematic reviewer), A/Prof Elaine Beller (systematic reviewer), Matt Carter (programmer), Michael Hodder (programmer), and Justin Clark (information specialist).  
   
@@ -34,6 +34,8 @@ The team is comprised of A/Prof Lotty Hooft (Epidemiologist/systematic reviewer)
 
 **[Centre for Health Informatics at Macquarie University, Sydney, Australia](https://www.mq.edu.au/research/research-centres-groups-and-facilities/healthy-people/centres/australian-institute-of-health-innovation/aihi-research-centres/health-informatics){:target="_blank"}** is a research centre dedicated to improving patient safety and outcomes through improved communication, evidence based practice and safe design. Relevant areas of research are evidence based clinical decision making, detection of bias in evidence and analytics. The Centre’s Piano technology that automates translational medicine (including systematic reviews and observational studies) is embodies ICASR’s Vienna Principles and is developed in partnership with Evidentli Pty Ltd. 
   
+  
+<img src="images/syreafv2.png" width="96">  
 **[Systematic Reviews for Animal and Food (SYREAF)](http://www.syreaf.org){:target="_blank"}** is a collaboration of [Annette O’Connor at Iowa State University](https://vetmed.iastate.edu/users/oconnor){:target="_blank"}, [Julie Glanville at the York Health Economic Consortium](http://www.yhec.co.uk/yhec/meet-the-team/julie-glanville/){:target="_blank"} and [Jan Sergeant at the University at Guelph](https://experts.uoguelph.ca/jan-sargeant){:target="_blank"}.  
 The SYREAF group works in systematic reviews in food safety, animal health and animal welfare. We have also numerous publications and video tutorials on how to conduct systematic reviews and the unique challenges, information sources and outcomes associated with systematic reviews in animal populations and food production.  Annette O’Connor and Stephen Gilbert at Iowa State University and Jan Sergeant at the University at Guelph also work on the [MERIDIAN website](https://meridian.cvm.iastate.edu.){:target="_blank"} , which is a clear house for reporting guidelines for research that involves animal populations in companionship, food production, wildlife or biomedical research. Meridian stands for “Menagerie of Reporting Guidelines Involving Animals”  
   
