@@ -27,8 +27,9 @@ The team includes Prof Paul Glasziou (systematic reviewer), A/Prof Elaine Beller
   
 <img src="images/eppi_logo.jpg" width="96">  
 **[The EPPI-Centre at University College London](http://eppi.ioe.ac.uk/cms/){:target="_blank"}** is a centre which specialises in methodology for systematic reviews and the use of evidence to inform decision-making. It publishes the systematic review tool – [EPPI-Reviewer](https://eppi.ioe.ac.uk/cms/Default.aspx?alias=eppi.ioe.ac.uk/cms/er4){:target="_blank"} – and provides a range of machine learning services for Cochrane.  
-The technical development team includes Prof James Thomas (systematic reviewer / computer science), Sergio Graziosi (programmer), Jeff Brunton (researcher), Patrick O’Driscoll (programmer), Zak Ghouze (software support) and Claire Stansfield (information specialist).
-
+The technical development team includes Prof James Thomas (systematic reviewer / computer science), Sergio Graziosi (programmer), Jeff Brunton (researcher), Patrick O’Driscoll (programmer), Zak Ghouze (software support) and Claire Stansfield (information specialist).  
+  
+<img src="images/uva_umcu_vu_cochrane.jpg" width="96">  
 **[Cochrane Netherlands](https://netherlands.cochrane.org/){:target="_blank"}/[Julius center for Health research and primary care](http://portal.juliuscentrum.nl/en-us/home.aspx){:target="_blank"}/[ILPS-University of Amsterdam](http://ilps.science.uva.nl/){:target="_blank"}/[KR&R-VU Amsterdam](https://krr.cs.vu.nl/){:target="_blank"}** is a consortium of researchers in the field of systematic review methodology, approximate reasoning, formalization of medical knowledge, Information retrieval, text mining, and evaluation of retrieval systems. We want to discover how decisions during the systematic review process are made, how technical solutions can support this and what evaluations are most appropriate to measure quality and success.  
 The team is comprised of A/Prof Lotty Hooft (Epidemiologist/systematic reviewer), Prof Carl Moons (Epidemiologist), Rene Spijker (Information Specialist), Prof Maarten de Rijke (Information processing, Informatiocs), Prof Evangelos Kanoulas (information retrieval, informatics), Prof. Frank van Harmelen (Knowledge representation and reasoning), A/prof  Anette ten Teije (knowledge representation).
 
