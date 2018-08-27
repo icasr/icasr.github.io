@@ -20,12 +20,12 @@ The 2018 ICASR Organizing Committee includes:
 The following is a partial list of the collaborators:  
   
   
-<img src="https://github.com/icasr/icasr.github.io/blob/master/images/CREBP_LogoColour2.jpg" width="96">
+<img src="images/CREBP_LogoColour2.jpg" width="96">
 **[The Centre for Research in Evidence-Based Practice at Bond University](https://bond.edu.au/intl/researchers/research-strengths/university-research-centres/centre-research-evidence-based-practice){:target="_blank"}** includes a team of systematic reviewers and programs interested in automation. Their software - [Systematic Review Accelerator](http://crebp-sra.com/#/){:target="_blank"}  - focuses particularly on tools for better search formulation and conduct, and is free to access.  
 The team includes Prof Paul Glasziou (systematic reviewer), A/Prof Elaine Beller (systematic reviewer), Matt Carter (programmer), Michael Hodder (programmer), and Justin Clark (information specialist).  
   
   
-<img src="https://github.com/icasr/icasr.github.io/blob/master/images/eppi_logo.jpg" width="96">  
+<img src="images/eppi_logo.jpg" width="96">  
 **[The EPPI-Centre at University College London](http://eppi.ioe.ac.uk/cms/){:target="_blank"}** is a centre which specialises in methodology for systematic reviews and the use of evidence to inform decision-making. It publishes the systematic review tool – [EPPI-Reviewer](https://eppi.ioe.ac.uk/cms/Default.aspx?alias=eppi.ioe.ac.uk/cms/er4){:target="_blank"} – and provides a range of machine learning services for Cochrane.  
 The technical development team includes Prof James Thomas (systematic reviewer / computer science), Sergio Graziosi (programmer), Jeff Brunton (researcher), Patrick O’Driscoll (programmer), Zak Ghouze (software support) and Claire Stansfield (information specialist).
 
