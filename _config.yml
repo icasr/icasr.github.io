@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
 title: ICASR
 description: International Collaboration for the Automation of Systematic Reviews
-
+# Google Analytics
+google_analytics: UA-124820951-1
