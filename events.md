@@ -8,7 +8,11 @@ title: ICASR Events
 This first meeting of the International Collaboration for the Automation of System Reviews (ICASR)  was held on 2 October 2015, Vienna, Austria adjacent to the Cochrane Colloquium. That first meeting established a set of 8 principles for the collaboration aimed at the development and dissemination of automation methods to assist in improving the speed and quality of systematic reviews. [A BMC Systematic Reviews paper detailing those principles is Open Access.](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-018-0740-7){:target="_blank"}  
   
 **2016**  
-The second meeting was held in Philadelphia (October 2016) adjacent to the Guidelines-International-Network (G-I-N) meeting. The meeting focused on interoperability of tools, measuring acceleration of systematic review production, automated screening technologies and accommodating variation in requirements of automation tools for different domains such as animal trials and environmental science. [A BMC Systematic Reviews paper detailing those principles is Open Access](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-017-0667-4){:target="_blank"}   
+The second meeting was held in Philadelphia (October 2016) adjacent to the Guidelines-International-Network (G-I-N) meeting. The meeting focused on interoperability of tools, measuring acceleration of systematic review production, automated screening technologies and accommodating variation in requirements of automation tools for different domains such as animal trials and environmental science. [A BMC Systematic Reviews paper detailing those principles is Open Access](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-017-0667-4){:target="_blank"}  
+ICASR 2016 was supported by the National Toxicology Program at the National Institutes of Health (contract GS00A14OADU417/HHSN273201600015U) and Iowa State University.  
+<img src="images/zonmw-logo.png" width="192">  
+<img src="images/zonmw-logo.png" width="192">  
+  
   
 **2017**  
 At the meeting in London (2017), the group focused on: tools and technologies for automating data extraction; how interoperability between systems might be facilitated; and the need to develop sector-wide evaluation methodologies. Papers resulting from these discussions are currently at peer review.  
