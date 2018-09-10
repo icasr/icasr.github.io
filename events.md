@@ -10,8 +10,7 @@ This first meeting of the International Collaboration for the Automation of Syst
 **2016**  
 The second meeting was held in Philadelphia (October 2016) adjacent to the Guidelines-International-Network (G-I-N) meeting. The meeting focused on interoperability of tools, measuring acceleration of systematic review production, automated screening technologies and accommodating variation in requirements of automation tools for different domains such as animal trials and environmental science. [A BMC Systematic Reviews paper detailing those principles is Open Access](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-017-0667-4){:target="_blank"}  
 ICASR 2016 was supported by the National Toxicology Program at the National Institutes of Health (contract GS00A14OADU417/HHSN273201600015U) and Iowa State University.  
-<img src="images/isu-stacked.svg" width="192">  
-<img src="images/Screen Shot 2018-09-10 at 14.28.55.png" width="192">  
+<img src="images/isu-stacked.svg" width="192"> <img src="images/Screen Shot 2018-09-10 at 14.28.55.png" width="192">  
   
   
 **2017**  
