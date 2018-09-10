@@ -15,5 +15,6 @@ At the meeting in London (2017), the group focused on: tools and technologies fo
 [some impressions from twitter](https://twitter.com/i/moments/1032159990440701952){:target="_blank"}
   
 **2018**  
-A meeting is being planned in the Hague in November supported by [ZonMw](https://www.zonmw.nl/en/){:target="_blank"}, The Netherlands Organisation for health research and Development.
+A meeting is being planned in the Hague in November supported by [ZonMw](https://www.zonmw.nl/en/){:target="_blank"}, The Netherlands Organisation for health research and Development.  
+
 <img src="images/zonmw-logo.png" width="192">  
