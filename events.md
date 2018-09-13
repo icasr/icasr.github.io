@@ -15,7 +15,10 @@ ICASR 2016 was supported by the National Toxicology Program at the National Inst
   
 **2017**  
 At the meeting in London (2017), the group focused on: tools and technologies for automating data extraction; how interoperability between systems might be facilitated; and the need to develop sector-wide evaluation methodologies. Papers resulting from these discussions are currently at peer review.  
-[some impressions from twitter](https://twitter.com/i/moments/1032159990440701952){:target="_blank"}
+[some impressions from twitter](https://twitter.com/i/moments/1032159990440701952){:target="_blank"}  
+ICASR 2017 was supported by the Eppi Centre, the National Toxicology Program at the National Institutes of Health (contract GS00A14OADU417/HHSN273201600015U), and Iowa State University.  
+<img src="images/eppi_logo.jpg" width="192">  
+<img src="images/isu-stacked.svg" width="192"> <img src="images/Screen Shot 2018-09-10 at 14.28.55.png" width="192">  
   
 **2018**  
 A meeting is being planned in the Hague in November supported by [ZonMw](https://www.zonmw.nl/en/){:target="_blank"}, The Netherlands Organisation for health research and Development.  
