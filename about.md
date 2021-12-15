@@ -20,9 +20,9 @@ The 2018 ICASR Organizing Committee includes:
 The following is a partial list of the collaborators:  
   
   
-<img src="images/CREBP_LogoColour2.jpg" width="192">  
-**[The Centre for Research in Evidence-Based Practice at Bond University](https://bond.edu.au/intl/researchers/research-strengths/university-research-centres/centre-research-evidence-based-practice){:target="_blank"}** includes a team of systematic reviewers and programs interested in automation. Their software - [Systematic Review Accelerator](http://crebp-sra.com/#/){:target="_blank"}  - focuses particularly on tools for better search formulation and conduct, and is free to access.  
-The team includes Prof Paul Glasziou (systematic reviewer), A/Prof Elaine Beller (systematic reviewer), Matt Carter (programmer), Michael Hodder (programmer), and Justin Clark (information specialist).  
+<img src="images/IEBH_logo.svg" width="192">
+**[The Institute for Evidence-Based Healthcare at Bond University](https://iebh.bond.edu.au){:target="_blank"}** includes a team of systematic reviewers and programs interested in automation. Their software - [Systematic Review Accelerator](https://sr-accelerator.com){:target="_blank"}  - focuses particularly on tools for better search formulation and conduct, and is free to access.
+The team includes Prof Paul Glasziou (systematic reviewer), A/Prof Elaine Beller (systematic reviewer), Matt Carter (programmer), Connor Forbes (programmer), and Justin Clark (information specialist).
   
   
 <img src="images/eppi_logo.jpg" width="192">  
