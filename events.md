@@ -2,7 +2,7 @@
 layout: doc
 title: ICASR Events
 ---
-[Home](index.md)|  
+[Home](index.md)|[About](about.md)|[Resources](resources.md)|[Events](events.md)|[Papers](papers.md)|   
 
 **2015**  
 This first meeting of the International Collaboration for the Automation of System Reviews (ICASR)  was held on 2 October 2015, Vienna, Austria adjacent to the Cochrane Colloquium. That first meeting established a set of 8 principles for the collaboration aimed at the development and dissemination of automation methods to assist in improving the speed and quality of systematic reviews. [A BMC Systematic Reviews paper detailing those principles is Open Access.](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-018-0740-7){:target="_blank"}  
