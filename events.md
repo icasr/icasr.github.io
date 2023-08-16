@@ -6,7 +6,7 @@ title: ICASR Events
 
 **2023**
 
-_To be announced_
+The eighth ICASR workshop will be held on September 7-8, 2023 at University College London (UCL). The meeting’s theme will be "evaluation" with a focus on how users can determine whether a given tool is fit for their purposes.
 
 **2022**
 
