@@ -4,22 +4,23 @@ title: ICASR Events
 ---
 [Home](index.md)|[About](about.md)|[Resources](resources.md)|[Events](events.md)|[Papers](papers.md)|   
 
-**2023**
+**2024**
 
-The eighth ICASR workshop will be held on September 7-8, 2023 at University College London (UCL). The meeting’s theme will be "evaluation" with a focus on how users can determine whether a given tool is fit for their purposes.
+The ninth ICASR workshop will be held in Prague on September 9, 2024, before the [Global Evidence Summit](https://www.globalevidencesummit.org) 2024.
+
+**2023**
+The eighth ICASR workshop was held on September 7-8, 2023 at University College London (UCL). The meeting’s theme was "evaluation" with a focus on how users can determine whether a given tool is fit for their purposes.
 
 **2022**
-
 The seventh ICASR meeting was held June 8-9, 2022 at Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen ([IQWiG](https://www.iqwig.de)) in Köln, Germany.
 
 **2021**
-
 The sixth meeting was held online April 12–16, 2021. The meeting’s theme was ‘Usability’ with specific areas of focused discussions including user experience, interoperability, tool evaluation, workflow integration, and COVID-19.
 
 **2019**
 The fifth meeting was held in Bergen, Norway. The meeting’s theme was "information extraction from text".
 
-**2018**  
+**2018**
 The fourth meeting of the International Collaboration for Automation of Systematic Reviews (ICASR) was held 5–6 November 2019 in The Hague, the Netherlands. It was supported by [ZonMw](https://www.zonmw.nl/en/){:target="_blank"}, The Netherlands Organisation for health research and Development.  
 
 <img src="images/zonmw-logo.png" width="192">
