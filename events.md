@@ -7,6 +7,9 @@ title: ICASR Events
 **2024**
 
 The ninth ICASR workshop will be held in Prague on September 9, 2024, before the [Global Evidence Summit](https://www.globalevidencesummit.org) 2024.
+This year's theme is "From Proof of Concept to Scalable Application: Navigating the Journey."
+
+To participate, please register [here](https://docs.google.com/forms/d/e/1FAIpQLSe5Eq6WSSPVIOBAxr8vNG7sydGCeGuYi4RWxYRvOxw2A2WAxg/viewform).
 
 **2023**
 The eighth ICASR workshop was held on September 7-8, 2023 at University College London (UCL). The meeting’s theme was "evaluation" with a focus on how users can determine whether a given tool is fit for their purposes.
