@@ -29,10 +29,17 @@ The 2024 ICASR Organizing Committee includes:
 <li>Michelle Angrish, U.S. Environmental Protection Agency</li>
 <li>Stephen Gilbert, Iowa State University</li>
 <li>Paul Glasziou, Bond University</li>
-<li>Annette O’Connor, Iowa State University</li>
+<li>Justin Clark, Bond University</li>
+<li>Annette O’Connor, Michigan State University</li>
 <li>Rene Spijker, Cochrane Netherlands, UMC Utrecht</li>
 <li>Michele Taylor, U.S. Environmental Protection Agency</li>
 <li>James Thomas, University College London</li>
 <li>Mary Wolfe, National Institute of Environmental Health Sciences</li>
+<li>Vickie R. Walker, National Institute of Environmental Health Sciences</li>
 <li>Wojciech Kusa, TU Wien</li>
+<li>Heather Melanie R Ames, Norwegian Institute of Public Health</li>
+<li>Christine Hillestad Hestevik, Norwegian Institute of Public Health</li>
+<li>Jose Francisco Meneses Echavez, Norwegian Institute of Public Health</li>
+<li>Hans Bugge Bergsund, Norwegian Institute of Public Health</li>
+<li>Lena Schmidt, University of Newcastle NIHR Innovation Observatory</li>
   </ul>
