@@ -37,7 +37,7 @@ The following is a partial list of the collaborators:
 **[TU Wien](https://www.tuwien.at/en/){:target="_blank"}**
 
 
-<img src="images/CAMARADES.png" width="192">
+<img src="images/camarades.png" width="192">
 **[CAMARADES](https://www.ed.ac.uk/clinical-brain-sciences/research/camarades){:target="_blank"}**
 
 
@@ -58,3 +58,5 @@ The following is a partial list of the collaborators:
 
 
 Other organisations…
+
+
