@@ -11,7 +11,7 @@ The following is a partial list of the collaborators:
 
 |<img src="images/IEBH_logo.svg" width="192">|**[The Institute for Evidence-Based Healthcare at Bond University](https://iebh.bond.edu.au){:target="_blank"}**|
 |<img src="images/eppi-centre logo.png" width="192">|**[The EPPI-Centre at University College London](http://eppi.ioe.ac.uk/cms/){:target="_blank"}**|
-|<img src="images/uva_umcu_vu_cochrane.jpg" width="192">|**[Cochrane Netherlands](https://netherlands.cochrane.org/){:target="_blank"}/[Julius center for Health research and primary care](http://portal.juliuscentrum.nl/en-us/home.aspx){:target="_blank"}/[ILPS-University of Amsterdam](http://ilps.science.uva.nl/){:target="_blank"}/[KR&R-VU Amsterdam](https://krr.cs.vu.nl/){:target="_blank"}**|
+|<img src="images/uva_umcu_vu_cochrane.jpg" width="192">|**[Cochrane Netherlands](https://netherlands.cochrane.org/){:target="_blank"}/[Julius center for Health research and primary care](http://portal.juliuscentrum.nl/en-us/home.aspx){:target="_blank"}/[ILPS-University of Amsterdam](https://ivi.uva.nl/research/information-retrieval-lab.html?cb){:target="_blank"}/[KR&R-VU Amsterdam](https://krr.cs.vu.nl/){:target="_blank"}**|
 |<img src="images/syreafv2.png" width="192">|**[Systematic Reviews for Animal and Food (SYREAF)](http://www.syreaf.org){:target="_blank"}**|
 |<img src="images/niehs.png" width="192">|**[National Institute of Environmental Health Sciences (NIEHS)](https://www.niehs.nih.gov/){:target="_blank"}**|
 |<img src="images/EPA.png" width="192">|**[U.S. Environmental Protection Agency (U.S. EPA)](https://www.epa.gov/){:target="_blank"}**|
