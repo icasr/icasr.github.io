@@ -33,7 +33,7 @@ The following is a partial list of the collaborators:
 **[U.S. Environmental Protection Agency (U.S. EPA)](https://www.epa.gov/){:target="_blank"}**
 
 
-<img src="images/TUWIEN.png" width="192">
+<img src="images/TUWIEN.png" width="92">
 **[TU Wien](https://www.tuwien.at/en/){:target="_blank"}**
 
 
