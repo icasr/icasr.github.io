@@ -14,7 +14,7 @@ The following is a partial list of the collaborators:
 The team includes Prof Paul Glasziou (systematic reviewer), A/Prof Elaine Beller (systematic reviewer), Matt Carter (programmer), Connor Forbes (programmer), and Justin Clark (information specialist).
 
 
-<img src="images/eppi-centre logo.png"" width="192">  
+<img src="images/eppi-centre logo.png" width="192">  
 **[The EPPI-Centre at University College London](http://eppi.ioe.ac.uk/cms/){:target="_blank"}** is a centre which specialises in methodology for systematic reviews and the use of evidence to inform decision-making. It publishes the systematic review tool – [EPPI-Reviewer](https://eppi.ioe.ac.uk/cms/Default.aspx?alias=eppi.ioe.ac.uk/cms/er4){:target="_blank"} – and provides a range of machine learning services for Cochrane.  
 The technical development team includes Prof James Thomas (systematic reviewer / computer science), Sergio Graziosi (programmer), Jeff Brunton (researcher), Patrick O’Driscoll (programmer), Zak Ghouze (software support) and Claire Stansfield (information specialist).  
 
