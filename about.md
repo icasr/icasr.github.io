@@ -25,15 +25,15 @@ The following is a partial list of the collaborators:
 **[Systematic Reviews for Animal and Food (SYREAF)](http://www.syreaf.org){:target="_blank"}**
 
 
-<img src="images/niehs" width="192">
+<img src="images/niehs.png" width="192">
 **[National Institute of Environmental Health Sciences (NIEHS)](https://www.niehs.nih.gov/){:target="_blank"}**
 
 
-<img src="images/EPA" width="192">
+<img src="images/EPA.png" width="192">
 **[U.S. Environmental Protection Agency (U.S. EPA)](https://www.epa.gov/){:target="_blank"}**
 
 
-<img src="images/TUWIEN" width="192">
+<img src="images/TUWIEN.png" width="192">
 **[TU Wien](https://www.tuwien.at/en/){:target="_blank"}**
 
 
