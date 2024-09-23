@@ -11,13 +11,13 @@ Agenda:
 - 09.30 - 09:45    Introduction to the day
 - 09:45 - 10:30    Where are we now in terms of automating systematic review processes?
 - 10:30 - 11:30    End-to-end processes: screening and tagging research articles
-    - Das Puranjani
-    - Michelle Cawley
+    - [Das Puranjani](presentations/2024/puranjani.pdf)
+    - [Michelle Cawley](presentations/2024/cawley.pdf)
     - Andrew Harvey
 - 11:30 - 12:00    Coffee break
 - 12:00 - 12:45    End-to-end processes: data extraction
     - Eitan Agai
-    - Lena Schmidt
+    - [Lena Schmidt](presentations/2024/schmidt.pdf)
     - Artur Nowak
 - 12:45 - 13:45    Lunch
 - 13:45 - 14:45    End-to-end processes: whole systems
