@@ -5,7 +5,7 @@ title: 2024 ICASR meeting
 [Home](index.md)|[About](about.md)|[Resources](resources.md)|[Events](events.md)|[Papers](papers.md)|[2024 ICASR meeting](2024_meeting.md)|  
 
 
-The meeting will take place in Hall D9 at the O2 Universum on September 9th. It is scheduled to begin at 09:30 and conclude at 17:30. A sponsor has kindly paid for refreshments for us at 11.30, but lunch and afternoon coffee is not supplied as part of this meeting.
+The meeting took place in Hall D9 at the O2 Universum in Prague on September 9th. Please see below for links to the presentations.
 
 Agenda:
 - 09.30 - 09:45    Introduction to the day
