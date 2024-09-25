@@ -21,14 +21,15 @@ Agenda:
     - Artur Nowak
 - 12:45 - 13:45    Lunch
 - 13:45 - 14:45    End-to-end processes: whole systems
-    - Tim Repke
-    - Gabriel Rada
-    - Nicolas Médoc
+    - [Tim Repke](presentations/2024/repke.pdf)
+    - [Gabriel Rada](presentations/2024/rada.pdf)
+    - [Nicolas Médoc](presentations/2024/medoc.pdf)
 - 14:45 - 14:50    Introduction to discussion groups
 - 14:50 - 15:15    Coffee break
 - 15:15 - 16:00    End-to-end processes: discussion groups
 - 16:00 - 16:30    Feedback from discussion groups
 - 16:30 - 17:15    Provocative presentation & discussion on over-optimistic claims about LLMs
+    - [Justin Clark](presentations/2024/clark.pdf)
 - 17:15 - 17:30    Summary and meeting close
 
 
