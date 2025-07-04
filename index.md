@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Home](index.md)|[About](about.md)|[Resources](resources.md)|[Events](events.md)|[Papers](papers.md)|[2024 ICASR meeting](2024_meeting.md)|  
+[Home](index.md)|[About](about.md)|[Resources](resources.md)|[Events](events.md)|[Papers](papers.md)|[2025 ICASR meeting](2025_meeting.md)|  
 
 **2025 ICASR meeting**
 
