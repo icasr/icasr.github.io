@@ -51,5 +51,5 @@ The 2024 ICASR Organizing Committee includes:
 <li>Christine Hillestad Hestevik, Norwegian Institute of Public Health</li>
 <li>Jose Francisco Meneses Echavez, Norwegian Institute of Public Health</li>
 <li>Hans Bugge Bergsund, Norwegian Institute of Public Health</li>
-<li>Lena Schmidt, University of Newcastle NIHR Innovation Observatory</li>
+<li>Lena Schmidt, Newcastle University, NIHR Innovation Observatory</li>
   </ul>
