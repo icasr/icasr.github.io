@@ -70,7 +70,7 @@ Speaker: Will Moy (ESIC secretariat mamber)
   Lena Schmidt (UCL)
 - [**"Awesome Systematic Reviews"**](presentations/2025/P_Jemiolo_AwesomeSR.pdf)
   Paweł Jemioło (AGH University of Krakow)
-- **"Data – The Bottleneck to Trustworthy SRA"**  
+- [**"Data – The Bottleneck to Trustworthy SRA"**](presentations/2025/Sandner_Kothari_bottleneck.pdf)  
   Elias Sandner (CERN) and Kavita Kothari (Systematic Review Consultants)  
 - **10 min shared Q&A**
 
@@ -85,7 +85,7 @@ Speaker: Will Moy (ESIC secretariat mamber)
 **Discussion: Attitudes and Trust Toward Artificial Intelligence for Evidence Synthesis**  
 *Moderators:*  
 - Jose Meneses-Echavez (Norwegian Institute of Public Health)  
-- Ella Flemyng (Cochrane)
+- Ella Flemyng (Cochrane) [**Understanding Expectations for Evidence Synthesis when using AI: Survey Results**](presentations/2025/E_Flemyng_AccuracySurvey.pdf)
 
 ---
 
