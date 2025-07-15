@@ -68,7 +68,7 @@ Speaker: Will Moy (ESIC secretariat mamber)
 #### Part 2
 - [**"Living Review of Automated Data Extraction Methods"**](presentations/2025/L_Schmidt_LSR_dataextraction.pdf)  
   Lena Schmidt (UCL)
-  [**"Awesome Systematic Reviews"**](presentations/2025/P_Jemiolo_AwesomeSR.pdf)
+- [**"Awesome Systematic Reviews"**](presentations/2025/P_Jemiolo_AwesomeSR.pdf)
   Paweł Jemioło (AGH University of Krakow)
 - **"Data – The Bottleneck to Trustworthy SRA"**  
   Elias Sandner (CERN) and Kavita Kothari (Systematic Review Consultants)  
