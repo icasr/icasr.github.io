@@ -2,7 +2,7 @@
 layout: doc
 title: Papers
 ---
-[Home](index.md)|[About](about.md)|[Resources](resources.md)|[Events](events.md)|[Papers](papers.md)|
+[Home](/)|[About](about)|[Resources](resources)|[Events](events)|[Papers](papers)|[2026 ICASR meeting](2026_meeting)|
 
 O’Connor, A.M., Glasziou, P., Taylor, M. et al. A focus on cross-purpose tools, automated recognition of study design in multiple disciplines, and evaluation of automation tools: a summary of significant discussions at the fourth meeting of the International Collaboration for Automation of Systematic Reviews (ICASR). Syst Rev 9, 100 (2020). [URL](https://link.springer.com/article/10.1186/s13643-020-01351-4)
 

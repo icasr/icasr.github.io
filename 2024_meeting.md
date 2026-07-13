@@ -2,8 +2,7 @@
 layout: doc
 title: 2024 ICASR meeting
 ---
-[Home](index.md)|[About](about.md)|[Resources](resources.md)|[Events](events.md)|[Papers](papers.md)|[2024 ICASR meeting](2024_meeting.md)|  
-
+[Home](/)|[About](about)|[Resources](resources)|[Events](events)|[Papers](papers)|[2026 ICASR meeting](2026_meeting)|
 
 The meeting took place in Hall D9 at the O2 Universum in Prague on September 9th. Please see below for links to the presentations.
 

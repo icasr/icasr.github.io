@@ -1,13 +1,11 @@
 ---
 layout: default
 ---
-[Home](index.md)|[About](about.md)|[Resources](resources.md)|[Events](events.md)|[Papers](papers.md)|[2025 ICASR meeting](2025_meeting.md)|  
+[Home](/)|[About](about)|[Resources](resources)|[Events](events)|[Papers](papers)|[2026 ICASR meeting](2026_meeting)|  
 
-**2025 ICASR meeting**
+**2026 ICASR meeting**
 
-The 2025 ICASR is a half-day event, on Wednesday 9th July 2025, held at the [Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/en/home), hosted by the [DESTINY Consortium](https://destiny-evidence.github.io/website/) (Digitial Evidence Synthesis Tool INnovation for Yielding Improvements in Climate & Health). It can be attended in-person or virtually and the theme is "Design and adoption of trustworthy digital evidence synthesis tools (DESTs): automating screening, extraction, and sharing datasets". The DEST-Hackathon will be held at the same venue on 10-11 July 2025.
-
-Don't miss this opportunity to engage with experts and peers in the field. To secure your spot, please register [here](https://airtable.com/appgWqrMCT253D82m/pagn2HIuJU7cjwSiJ/form) for virtual attendance (in-person regsitration is closed now). We look forward to seeing you there!
+A full-day ICASR meeting will be held as satellite event before the Cochrane Colloquium. More details will be available soon on the [2026 meeting page](2026_meeting).
 
 ________
 

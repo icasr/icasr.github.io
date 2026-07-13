@@ -2,7 +2,7 @@
 layout: doc
 title: 2025 ICASR meeting
 ---
-[Home](index.md)|[About](about.md)|[Resources](resources.md)|[Events](events.md)|[Papers](papers.md)|[2024 ICASR meeting](2025_meeting.md)|  
+[Home](/)|[About](about)|[Resources](resources)|[Events](events)|[Papers](papers)|[2026 ICASR meeting](2026_meeting)|
 
 
 # Introduction

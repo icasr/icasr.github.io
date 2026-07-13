@@ -2,16 +2,18 @@
 layout: doc
 title: ICASR Events
 ---
-[Home](index.md)|[About](about.md)|[Resources](resources.md)|[Events](events.md)|[Papers](papers.md)|[2025 ICASR meeting](2025_meeting.md)|   
+[Home](/)|[About](about)|[Resources](resources)|[Events](events)|[Papers](papers)|[2026 ICASR meeting](2026_meeting)|   
 
 **2025**
-The 10th ICASR workshop is a half-day event, on Wednesday 9th July 2025, held at the [Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/en/home), hosted by the [DESTINY Consortium](https://destiny-evidence.github.io/website/) (Digitial Evidence Synthesis Tool INnovation for Yielding Improvements in Climate & Health). It can be attended in-person or virtually and the theme is "Design and adoption of trustworthy digital evidence synthesis tools (DESTs): automating screening, extraction, and sharing datasets". The DEST-Hackathon will be held at the same venue on 10-11 July 2025.
+The 10th ICASR workshop was a half-day event, on Wednesday 9th July 2025, held at the [Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/en/home), hosted by the [DESTINY Consortium](https://destiny-evidence.github.io/website/) (Digitial Evidence Synthesis Tool INnovation for Yielding Improvements in Climate & Health). It was a hybrid in-person / virtual event and the theme was "Design and adoption of trustworthy digital evidence synthesis tools (DESTs): automating screening, extraction, and sharing datasets". The DEST-Hackathon was held at the same venue on 10-11 July 2025.
 
-Please register [here](https://airtable.com/appgWqrMCT253D82m/pagn2HIuJU7cjwSiJ/form) for virtual attendance (in-person regsitration is closed now).
+See [2025 ICASR meeting](2025_meeting) for the agenda and resources such as presenter slides. 
 
 **2024**
 The ninth ICASR workshop was held in Prague on September 9, 2024, before the [Global Evidence Summit](https://www.globalevidencesummit.org) 2024.
 The theme was "From Proof of Concept to Scalable Application: Navigating the Journey."
+
+See [2024 ICASR meeting](2024_meeting) for the agenda and resources such as presenter slides.
 
 **2023**
 The eighth ICASR workshop was held on September 7-8, 2023 at University College London (UCL). The meeting’s theme was "evaluation" with a focus on how users can determine whether a given tool is fit for their purposes.
