@@ -7,7 +7,9 @@ title: 2026 ICASR meeting
 
 # Introduction
 
-The **2026 ICASR** Will be a full day satellite event at the Cochrane Colloquium Krakow 2026. More details will be announced shortly.
+The **2026 ICASR** will be a full day satellite event at the Cochrane Colloquium Krakow 2026. It will be held as a methods symposium in collaboration with the Cochrane Methods Executive.
+
+Registration for the event is now open. Please visit the [Symposium website](https://colloquium-2026.cochrane.org/methods-symposium/) for more information. 
 
 ---
 
